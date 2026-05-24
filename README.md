@@ -47,9 +47,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laaibahshaheen&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaibahshaheen&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -59,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/laaibahshaheen?theme=dark&font=Nunito&ext=contest" />
 
 </p>
 
@@ -89,7 +89,7 @@
 # ✨ Fun Fact
 
 > “i do things i dont want to do.”
-![LeetCode Stats](https://leetcard.jacoblin.cool/laaibahShaheen)
+
 ---
 
 <div align="center">
