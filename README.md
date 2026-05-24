@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Laaibah 🧬⚙️
+# Hey peeps
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Laaibah%20Shaheen&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
 ### Biomedical Engineering Student | Exploring AI, Robotics & Healthcare Tech
@@ -41,18 +41,6 @@
 - Embedded Systems
 - Human-Computer Interaction
 - Bioinformatics
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laaibahshaheen&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaibahshaheen&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
 
 ---
 
