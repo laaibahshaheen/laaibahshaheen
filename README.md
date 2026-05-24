@@ -45,6 +45,8 @@
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laaibahshaheen&show_icons=true&theme=tokyonight" />
@@ -73,7 +75,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/lalalyba">
+<a href="https://instagram.com/lala_lyba">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
