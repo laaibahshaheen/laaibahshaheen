@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hey, I'm Laaibah 🧬⚙️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Laaibah%20Shaheen&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
 ### Biomedical Engineering Student | Exploring AI, Robotics & Healthcare Tech
 
