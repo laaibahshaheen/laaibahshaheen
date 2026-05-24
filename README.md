@@ -45,13 +45,11 @@
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laaibahshaheen&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laaibahshaheen&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaibahshaheen&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaibahshaheen&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
@@ -83,7 +81,7 @@
 
 <p align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=go68by8d23b616ctijz6hianc&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=go68by8d23b616ctijz6hianc&redirect=true)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=go68by8d23b616ctijz6hianc&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false" />
 
 </p>
 ---
