@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey peeps
+# Hey peeps it is I
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Laaibah%20Shaheen&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 
 ### Biomedical Engineering Student | Exploring AI, Robotics & Healthcare Tech
